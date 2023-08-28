@@ -9,7 +9,7 @@ The project is structured as follows:
 - notebooks/: Jupyter notebooks detailing the step-by-step process of data preprocessing, feature engineering, and K-Means clustering.- results/: The outcomes of the clustering process, including cluster visualizations and insights.
 - README.md: You are here!
 ## Getting Started
-1. Clone the repository: git clone https://github.com/yourusername/credit-card-clustering.git`2. Navigate to the project directory: `cd credit-card-clustering
+1. Clone the repository: git clone https://github.com/MohamedKhalifa1/K-Means-Clustering-in-Credit-Card`2. Navigate to the project directory: `cd credit-card-clustering
 3. Install the required dependencies: pip install -r requirements.txt`4. Explore the Jupyter notebooks in the `notebooks/ directory to understand the data analysis process.
 5. Check out the results and insights in the results/ directory.
 ## Project Insights
